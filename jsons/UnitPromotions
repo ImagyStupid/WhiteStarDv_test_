@@ -795,7 +795,7 @@
 //Black Sun Dv
 {
   "name": "ATE Doctrine -Hate-",
-  "uniques": ["[+75]% Strength <when attacking> <when below [40]% HP>","<when below [50]% HP>[-15]% Strength for [All] enemy units in [All] adjacent tiles"]
+  "uniques": ["[+75]% Strength <when attacking> <when below [40] HP>","<when below [50] HP>[-15]% Strength for [All] enemy units in [All] adjacent tiles"]
 },
 {
   "name": "Requisitioned",
