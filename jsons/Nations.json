@@ -5,7 +5,7 @@
 		"leaderName": "M415-87-01b/OE-129G5/43-012",
 		"adjective": ["Whitties"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific","Diplomatic",
 		
 		"startIntroPart1": "Major, it's a pleasure to me to inform that you've been asigned to this world, it's gonna take some time, but I'm sure you'll be more than capable to fullfil this mission",
 		"startIntroPart2": "You know what to do Major, show everyone in the empire you're worthy of the charge",
@@ -19,7 +19,7 @@
 		"hateHello": ".   .   . Exi a facie mea.   .   .",
 		"tradeRequest": "I think it would be beneficial for both of us to conduct in a trade.",
 		
-		"outerColor": [ 255, 255, 255]
+		"outerColor": [ 255, 255, 255],
 		"innerColor": [152,243,253],
 		"uniqueName": "Pietas Major",
 		"uniqueText": "+1 [Science] every 2 eras for cities settled on Hill\n+1 [Science] from every Strategic Resource\n+2 [Science] from every Strategic Resource improved with Mine",
@@ -31,9 +31,9 @@
 					"[+5 Science] in cities on [Hill] tiles <starting from the [Classical era]>",
 					"[+5 Science] in cities on [Hill] tiles <starting from the [Renaissance era]>",
 					"[+5 Science] in cities on [Hill] tiles <starting from the [Modern era]>",
-					"[+5 Science] in cities on [Hill] tiles <starting from the [Information era]>"],
+					"[+5 Science] in cities on [Hill] tiles <starting from the [Information era]>",
 					"[-25]% Unhappiness from [Population] [in all cities]",
-					"[-25]% maintenance costs <for [All] units>",
+					"[-25]% maintenance costs <for [All] units>"],
 		"cities": ["Alpha Station AS-WH-01a","Beta City BC-WH-01b","Gamma Post GM-WH-01c","Delta Station DS-WH-01d","Épsilon City EC-WH-01e","Zeta Post ZP-WH-01f","Eta Station ES-WH-01g","Theta City TC-WH-01h","Iota Post IP-WH-01i","Kappa Station KS-WH-01j", "Lambda City LC-WH-01k"],
 		"civilopediaText": [
 			{"text":"The White Star Dv (Division) from the ATE (Azot Empire) is one of the less battle focused, they're mainly used for Diplomatic and Scientific missions, even though, it's a small Dv, leaded by the Major M415-87-01b/OE-129G5/43-012, aka Mairthe"},
