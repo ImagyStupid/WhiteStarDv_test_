@@ -48,7 +48,7 @@
 		"leaderName": "Bruh By-Azot",
 		"adjective": ["Sunlessees"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Culture",
 		
 		"startIntroPart1": "Bruh By-Azot, Star Admiral, asigned to this new land to conquer and establish a suplier world to enhance the Empire war capacities",
 		"startIntroPart2": "",
@@ -76,6 +76,43 @@
 			{"text":"The Black Sun Dv (Division) from the ATE (Azot Empire), mainly focused on the militaristic but also decent on science, they're used for worlds that might be moderatedly agressive, leaded for the Star Admiral Bruh By-Azot they'll take over any planet they are sent."},
 			{"text":"The Black Sun Dv is well known for their discipline and being able to use at 100% their sorroundings, for the same reason their troops won't comply for their live conditions"},
 			{"text":"Settle in plains will make them unstopable."},
+        ]
+	},
+	//Kaori Azot from HellStar Division
+	{
+		"name": "HellStar Dv",
+		"leaderName": "Kaori Azot",
+		"adjective": ["Hellstarte"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Kaori, you and your Dv had been encomended to take this world by any necessary way...",
+		"startIntroPart2": "Go now, I'm sure you won't fail us... Again...",
+		
+		"declaringWar": "We tolereted you all for a long time now... But's time to wipe you out from this plane of existance",
+		"attacked": "You filthy thing... In the name of the Azot Empire you and all your people will be erased... Like you never existed",
+		"defeated": "AGH!, I HATE WHEN THIS HAPPENS!",
+		"introduction": "Kaori, Kaori Azot... I'll say it's a pleasure to meet you... but I wasn't teached to lie",
+		
+		"neutralHello": "Hi... Need something?",
+		"hateHello": "What. . .?",
+		"tradeRequest": "My asscesors and I were talking... We think this mightbe good for both of us...",
+		
+		"outerColor": [ 245, 156, 3],
+		"innerColor": [127, 2, 10],
+		"uniqueName": "Beskonechnoye nasiliye",
+		"uniqueText": "+70% Production when constructing Military Land units in all cities\n All units gain the Violence Doctrine promotion",
+		"uniques": ["[+70]% Production when constructing [{Military} {Land}] units [in all cities]",
+					"[+70]% Production when constructing [Barracks] building [in all cities]", 
+					"[+70]% Production when constructing [Armory] building [in all cities]",
+					"[+70]% Production when constructing [Military Academy] building [in all cities]",
+					"[{All}] units gain the [ATE Doctrine -Violence-] promotion",
+					"[-100]% Unhappiness from [Population] [in all cities] <while at war>",
+					"[-45]% maintenance costs <for [All] units>"],
+		"cities": ["Alpha Citadel AC-HS-03a","Beta Bastion BB-HS-03b","Gamma Keep GK-HS-03c","Delta Citadel DC-HS-03d","Épsilon Bastion EB-HS-03e","Zeta Keep ZK-HS-03f","Eta Citadel EC-HS-03g","Theta Bastion TB-HS-03h","Iota Keep IK-HS-03i","Kappa Citadel KC-HS-03j","Lambda Bastion LB-HS-03k"],
+		"civilopediaText": [
+			{"text":"The HellStar Dv (Division) from the ATE (Azot Empire), well known for their brutality on the battlefield, those who belong to this Dv always choose violence when they wake up. Leaded for Kaori Azot, only member of the IV generation of the Royal-Divine Family"},
+			{"text":"The Hellstartes are only good in one thing, War. As long they can kill something, they'll be happy."},
+			{"text":"Perfect Dv when you just don't feel like Science, Culture, etc."},
         ]
 	},
 ]
