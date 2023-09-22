@@ -28,10 +28,10 @@
 					"[+5 Science] from every [Mine] <in [Coal] tiles>",
 					"[+5 Science] from every [Mine] <in [Aluminum] tiles>",
 					"[+5 Science] from every [Mine] <in [Uranium] tiles>",
-					"[+5 Science] in cities on [Plain] tiles <starting from the [Classical era]>",
-					"[+5 Science] in cities on [Plain] tiles <starting from the [Renaissance era]>",
-					"[+5 Science] in cities on [Plain] tiles <starting from the [Modern era]>",
-					"[+5 Science] in cities on [Plain] tiles <starting from the [Information era]>",
+					"[+5 Science] in cities on [Grassland] tiles <starting from the [Classical era]>",
+					"[+5 Science] in cities on [Grassland] tiles <starting from the [Renaissance era]>",
+					"[+5 Science] in cities on [Grassland] tiles <starting from the [Modern era]>",
+					"[+5 Science] in cities on [Grassland] tiles <starting from the [Information era]>",
 					"[-25]% Unhappiness from [Population] [in all cities]",
 					"[-25]% maintenance costs <for [All] units>"
 					"[{All} {Military}] units gain the [Biopsia] promotion"],
@@ -106,7 +106,7 @@
 					"[+70]% Production when constructing [Armory] building [in all cities]",
 					"[+70]% Production when constructing [Military Academy] building [in all cities]",
 					"[{All}] units gain the [ATE Doctrine -Violence-] promotion",
-					"[-100]% Unhappiness from [Population] [in all cities] <while at war>",
+					"[-100]% Unhappiness from [Population] [in all cities]",
 					"[-45]% maintenance costs <for [All] units>"],
 		"cities": ["Alpha Citadel AC-HS-03a","Beta Bastion BB-HS-03b","Gamma Keep GK-HS-03c","Delta Citadel DC-HS-03d","Épsilon Bastion EB-HS-03e","Zeta Keep ZK-HS-03f","Eta Citadel EC-HS-03g","Theta Bastion TB-HS-03h","Iota Keep IK-HS-03i","Kappa Citadel KC-HS-03j","Lambda Bastion LB-HS-03k"],
 		"civilopediaText": [
