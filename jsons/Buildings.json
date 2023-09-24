@@ -1,23 +1,24 @@
 [
   {
-    "name": "Azot Codex -Science-",
+    "name": "Azot Codex -Ignorance-",
     "isNationalWonder": "True",
-    "replaces": "Oxford University",
-    "cost": 150,
-    "uniqueTo": "White Star Dv", "Black Sun Dv", "HellStar Dv",
-    "science": 10,
+    "replaces": "National College",
+    "cost": 200,
+    "uniqueTo": "White Star Dv",
+    "science": 5,
+    "percentStatBonus":{"science": 50},
     "uniques": ["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [University] in all cities","Cost increases by [30] per owned city"],
-    "requiredTech": "Education"
+    "requiredTech": "Philosophy"
   },
   {
-    "name": "",
+    "name": "Azot Codex -Violence-",
     "isNationalWonder": "True",
-    "replaces": "",
-    "uniqueTo": "",
-    "cost": ,
-    "": ,
-    "uniques": ["","",""],
-    "requiresTech": ""
+    "replaces": "Heroic Epic",
+    "uniqueTo": "HellStar Dv",
+    "cost": 200,
+    "cityStrength": 10,
+    "uniques": ["Requires a [Barracks] in all cities","All newly-trained units [in this city] receive the [Agressivnyy impetus] promotion","cost increases by [30] per owned city"],
+    "requiresTech": "Iron Working"
   },
   {
     
