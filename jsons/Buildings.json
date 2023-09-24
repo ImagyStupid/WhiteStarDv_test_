@@ -2,10 +2,11 @@
   {
     "name": "Azot Codex -Science-",
     "isNationWonder":"True",
-    "cost": 200,
+    "replaces":"Oxford University",
+    "cost": 150,
     "uniqueTo": "White Star Dv", "Black Sun Dv", "HellStar Dv",
     "science": 10,
-    "uniques":["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [Barracks] in all cities","Cost increases by [30] per owned city"],
-    "requiredTech":"Iron Working",
+    "uniques":["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [University] in all cities","Cost increases by [30] per owned city"],
+    "requiredTech":"Education",
   },
 ]
