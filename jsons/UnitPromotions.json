@@ -789,7 +789,7 @@
 },
 {
 	"name": "Biopsia",
-	"uniques": ["Earn [75]% damage to [Military] unit's [Strength] as [Science]"]
+	"uniques": ["Earn [75]% Strength of attacked [Military] unit's [Strength] as [Science]"]
 },
 
 //Black Sun Dv
@@ -799,12 +799,12 @@
 },
 {
 	"name": "Requisitioned",
-	"uniques": ["Earn [40]% damage to [Military] unit's [Strength] as [Production]"]
+	"uniques": ["Earn [40]% Strength of attacked [Military] unit's [Strength] as [Production]"]
 },
 //HellStar Dv
 {
 	"name": "ATE Doctrine -Violence-"
-	"uniques": ["[+150]% Strenght <when attacking>", "[-75]% Strength <when defending>"]
+	"uniques": ["[+150]% Strenght <when attacking>", "[-25]% Strength <when defending>"]
 },
 {
 	"name": "Agressivnyy impetus",
