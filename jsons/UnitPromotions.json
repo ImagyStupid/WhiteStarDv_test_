@@ -804,7 +804,7 @@
 //HellStar Dv
 {
 	"name": "ATE Doctrine -Violence-"
-	"uniques": ["[+150]% Strenght <when attacking>", "[-25]% Strength <when defending>"]
+	"uniques": ["[+150]% Strenght <when attacking>", "[-75]% Strength <when defending>"]
 },
 {
 	"name": "Agressivnyy impetus",
