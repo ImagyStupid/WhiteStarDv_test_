@@ -4,7 +4,7 @@
     "isNationalWonder": "True",
     "replaces": "National College",
     "cost": 200,
-    "uniqueTo": "White Star Dv",
+    "uniqueTo": "White Star Dv", "HellStar Dv", "Black Sun Dv",
     "science": 5,
     "percentStatBonus":{"science": 50},
     "uniques": ["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [University] in all cities","Cost increases by [30] per owned city"],
@@ -14,13 +14,22 @@
     "name": "Azot Codex -Violence-",
     "isNationalWonder": "True",
     "replaces": "Heroic Epic",
-    "uniqueTo": "HellStar Dv",
+    "uniqueTo": "HellStar Dv", "White Star Dv", " Black Sun Dv",
     "cost": 200,
     "cityStrength": 10,
     "uniques": ["Requires a [Barracks] in all cities","All newly-trained units [in this city] receive the [Agressivnyy impetus] promotion","cost increases by [30] per owned city"],
     "requiresTech": "Iron Working"
   },
   {
-    
+    "name": "Azot Codex -Hate-",
+    "isNationalWonder": "True",
+    "replaces": "National Epic",
+    "cost": 200,
+    "uniqueTo":"Black Sun Dv", "HellStar Dv", "White Star Dv",
+    "culture": 10,
+    "cityStrength": 5,
+    "percentStatBonus": {"production": 50},
+    "uniques": ["Requires a [Monument] in all cities","All newly-trained units [in this cities] receive the [Requesitioned] promotion","cost increases by [30] per owned city"],
+    "requiredTech":"Philosophy"
   },
 ]
