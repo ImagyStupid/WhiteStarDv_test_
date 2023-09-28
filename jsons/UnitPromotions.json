@@ -785,21 +785,21 @@
 //White Star Dv
 {
 	"name": "Maths or Morality",
-	"uniques": ["Earn [+50]% XP gained from combat"]
+	"uniques": ["[+50]% XP gained from combat"]
 },
 {
 	"name": "Biopsia",
-	"uniques": ["Earn [75]% Strength of attacked [Military] unit's [Strength] as [Science]"]
+	"uniques": ["Earn [50]% of the damage done to [Military] units as [Science]","Earn [30]% of killed [Military] unit's [Cost] as [Science]"]
 },
 
 //Black Sun Dv
 {
 	 "name": "ATE Doctrine -Hate-",
-	"uniques": ["[+75]% Strength <when attacking> <when below [50] HP>","<when below [75] HP>[-15]% Strength for [All] enemy units in [All] adjacent tiles"]
+	"uniques": ["[+75]% Strength <when below [50] HP>","[-15]% Strength bonus for [Enemy] units within [1] tiles <when below [60] HP>"]
 },
 {
 	"name": "Requisitioned",
-	"uniques": ["Earn [40]% Strength of attacked [Military] unit's [Strength] as [Production]"]
+	"uniques": ["Earn [50]% of the damage done to [Military] units as [Production]","Earn [30]% of killed [Military] unit's [Strength] as [Gold]"]
 },
 //HellStar Dv
 {
@@ -808,6 +808,6 @@
 },
 {
 	"name": "Agressivnyy impetus",
-	"uniques":["Earn [+50]% XP gained from combat"]
+	"uniques":["[+50]% XP gained from combat"]
 },
 ]
