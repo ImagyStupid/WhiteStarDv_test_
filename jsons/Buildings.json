@@ -7,7 +7,7 @@
     "uniqueTo": "White Star Dv",
     "science": 5,
     "percentStatBonus":{"science": 50},
-    "uniques": ["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [University] in all cities","Cost increases by [30] per owned city"],
+    "uniques": ["All newly-trained units [in this city] receive the [Maths or Morality]", "Requires a [Library] in all cities","Cost increases by [30] per owned city"],
     "requiredTech": "Philosophy"
   },
   {
@@ -32,4 +32,15 @@
     "uniques": ["Requires a [Monument] in all cities","All newly-trained units [in this cities] receive the [Requesitioned] promotion","cost increases by [30] per owned city"],
     "requiredTech":"Philosophy"
   },
+  {
+    "name": "Trinity Altar -Destruction-",
+    "isNationalWonder": "True",
+    "cost": 400,
+    "uniqueTo":"Cult of the Ash",
+    "culture": 10,
+    "faith": 40,
+    "cityHealth": 100,
+    "uniques": ["Requires a [Temple] in all cities","All newly-trained units [in this city] receive the [Ash] promotion","cost increases by [30] per owned city"],
+    "requiredTech": "Acustics"
+    },
 ]
