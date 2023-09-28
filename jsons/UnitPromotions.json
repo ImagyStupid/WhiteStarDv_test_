@@ -785,7 +785,7 @@
 //White Star Dv
 {
 	"name": "Maths or Morality",
-	"uniques": ["[+50]% XP gained from combat"]
+	"uniques": ["[+50]% XP gained from combat","May capture killed [Military] units <with [10]% chance> <when above [70] HP>"]
 },
 {
 	"name": "Biopsia",
@@ -795,7 +795,7 @@
 //Black Sun Dv
 {
 	 "name": "ATE Doctrine -Hate-",
-	"uniques": ["[+75]% Strength <when below [50] HP>","[-15]% Strength bonus for [Enemy] units within [1] tiles <when below [60] HP>"]
+	"uniques": ["[+75]% Strength <when below [50] HP>","[-15]% Strength for enemy [Military] units in adjacent [All] tiles <when below [60] HP>","Destroys tile improvements when attacking <when above [70] HP>"]
 },
 {
 	"name": "Requisitioned",
@@ -804,10 +804,19 @@
 //HellStar Dv
 {
 	"name": "ATE Doctrine -Violence-"
-	"uniques": ["[+150]% Strenght <when attacking>", "[-75]% Strength <when defending>"]
+	"uniques": ["[+100]% Strenght <when attacking>", "[-75]% Strength <when defending>", "May withdraw before melee ([33]%) <when below [15] HP>"]
 },
 {
 	"name": "Agressivnyy impetus",
-	"uniques":["[+50]% XP gained from combat"]
+	"uniques":["[+75]% XP gained from combat","Provides [1]% [Culture] <upon being defeated>"]
+},
+//Cult of the Ash
+{
+	"name": "Ash",
+	"uniques":["May capture killed [Military] units <with [30]% chance>","[-50]% Strength <when defending>","Prevents spreading of religion to the city it is next to"]
+},
+{
+	"name": "Devotion",
+	"uniques": ["[+25]% XP gained from combat","Can see invisible [All] units"]
 },
 ]
