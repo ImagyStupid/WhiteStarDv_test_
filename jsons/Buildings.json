@@ -40,7 +40,7 @@
     "culture": 10,
     "faith": 40,
     "cityHealth": 100,
-    "uniques": ["Requires a [Temple] in all cities","All newly-trained units [in this city] receive the [Ash] promotion","cost increases by [30] per owned city"],
-    "requiredTech": "Acustics"
+    "uniques": ["Requires a [Temple] in all cities","All newly-trained units [in this city] receive the [Devotion] promotion","cost increases by [30] per owned city"],
+    "requiredTech": "Acoustics"
     },
 ]
