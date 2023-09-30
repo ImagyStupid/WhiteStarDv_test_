@@ -1,0 +1,27 @@
+[
+  //Cult of the Ash
+  {
+    "name": "Hooded cultist",
+    "unitType": "Scout",
+    "uniqueTo": "Cult of the Ash",
+    "replaces": "Scout",
+    "movement": 3,
+    "strength": 8,
+    "cost": 45,
+    "uniques": ["Never appears as a Barbarian unit","Invisible to non-adjacent units","Can pass through impassable tiles", "May enter foreing tiles without open borders"],
+    "promotions": ["Ignore terrain cost"],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Explorer",
+    "unitType": "Scout",
+    "uniqueTo": "White Star Dv",
+    "replaces": "Scout",
+    "movement": 2,
+    "strength": 10,
+    "cost": 45,
+    "uniques": ["Never appears as a Barbarian unit", "Can pass through impassable tiles","May enter foreing tiles without open borders","Can see invisible [All] units"],
+    "promotions": ["Ignore terrain cost"],
+    "attackSound": "metalhit"
+  },
+]
