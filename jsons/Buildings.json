@@ -29,7 +29,7 @@
     "culture": 10,
     "cityStrength": 5,
     "percentStatBonus": {"production": 50},
-    "uniques": ["Requires a [Monument] in all cities","All newly-trained [Military] units [in this city] receive the [Requesitioned] promotion","cost increases by [30] per owned city"],
+    "uniques": ["Requires a [Monument] in all cities","All newly-trained [Military] units [in this city] receive the [Requisitioned] promotion","cost increases by [30] per owned city"],
     "requiredTech":"Philosophy"
   },
   {
