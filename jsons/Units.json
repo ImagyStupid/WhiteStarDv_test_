@@ -12,6 +12,7 @@
     "promotions": ["Ignore terrain cost"],
     "attackSound": "nonmetalhit"
   },
+  //White Star Dv
   {
     "name": "Explorer",
     "unitType": "Sword",
@@ -24,4 +25,7 @@
     "promotions": ["Ignore terrain cost"],
     "attackSound": "metalhit"
   },
+  //HellStar Dv
+
+  //Black Sun Dv
 ]
