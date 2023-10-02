@@ -27,5 +27,18 @@
   },
   //HellStar Dv
 
+   {
+    "name": "Kaori Azot",
+    "unitType": "Sword",
+    "uniqueTo": "HellStar Dv",
+    "movement": 4,
+    "sight": 4,
+    "Health": 150,
+    "strength": 100,
+    "cost": 99999999999,
+    "uniques": ["Never appears as a Barbarian unit", "Can pass through impassable tiles","Can see invisible [All] units","May not annex cities","Cities are razed [4] times as fast"],
+    "promotions": ["Azot Blood"],
+    "attackSound": "nuke"
+  },
   //Black Sun Dv
 ]
