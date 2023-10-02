@@ -3,7 +3,7 @@
     "name": "Azot Codex -Ignorance-",
     "isNationalWonder": "True",
     "replaces": "National College",
-    "cost": 200,
+    "cost": 400,
     "uniqueTo": "White Star Dv",
     "science": 5,
     "percentStatBonus":{"science": 50},
@@ -15,7 +15,7 @@
     "isNationalWonder": "True",
     "replaces": "Heroic Epic",
     "uniqueTo": "HellStar Dv",
-    "cost": 200,
+    "cost": 400,
     "cityStrength": 10,
     "uniques": ["Requires a [Barracks] in all cities","All newly-trained [Military] units [in this city] receive the [Agressivnyy impetus] promotion","cost increases by [30] per owned city"],
     "requiresTech": "Iron Working"
@@ -24,7 +24,7 @@
     "name": "Azot Codex -Hate-",
     "isNationalWonder": "True",
     "replaces": "National Epic",
-    "cost": 200,
+    "cost": 400,
     "uniqueTo":"Black Sun Dv",
     "culture": 10,
     "cityStrength": 5,
@@ -42,5 +42,14 @@
     "cityHealth": 100,
     "uniques": ["Requires a [Temple] in all cities","All newly-trained [All] units [in this city] receive the [Devotion] promotion","cost increases by [30] per owned city"],
     "requiredTech": "Acoustics"
-    },
-]
+  },
+  {
+    "name": "The Call -Kaori-",
+    "cost": 10000,
+    "isNationalWonder": "True",
+    "uniqueTo": "HellStar Dv",
+    "cityHealth": 100,
+    "cityStrength": 20,
+    "uniques": ["cost decreases by [15] per owned city","Cannont be purchased",""]
+  }
+  ]
