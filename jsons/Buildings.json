@@ -44,12 +44,12 @@
     "requiredTech": "Acoustics"
   },
   {
-    "name": "The Call -Kaori-",
+    "name": "The Call -Kaori Azot-",
     "cost": 10000,
     "isNationalWonder": "True",
     "uniqueTo": "HellStar Dv",
     "cityHealth": 100,
     "cityStrength": 20,
-    "uniques": ["cost decreases by [15] per owned city","Cannont be purchased",""]
+    "uniques": ["cost decreases by [15] per owned city","Cannont be purchased","Free [Kaori Azot] appears"]
   }
   ]
