@@ -3,7 +3,7 @@
 //White Star Dv
 {
 	"name": "Maths or Morality",
-	"uniques": ["[+50]% XP gained from combat","May capture killed [Military] units <with [10]% chance> <when above [70] HP>"]
+	"uniques": ["[+50]% XP gained from combat","May capture killed [Military] units <with [25]% chance> <when above [70] HP>"]
 },
 {
 	"name": "Biopsia",
@@ -35,6 +35,6 @@
 },
 {
 	"name": "Devotion",
-	"uniques": ["[+25]% XP gained from combat","Can see invisible [All] units"]
+	"uniques": ["[+50]% XP gained from combat","[+2] additional attacks per turn","[+2] Movement","Heals [20] damage if it kills a unit","[+40]% Strength"]
 },
 ]
