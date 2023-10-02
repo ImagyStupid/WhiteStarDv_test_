@@ -3,7 +3,7 @@
 //White Star Dv
 {
 	"name": "Maths or Morality",
-	"uniques": ["[+50]% XP gained from combat","May capture killed [Military] units <with [25]% chance> <when above [70] HP>"]
+	"uniques": ["[+75]% XP gained from combat","May capture killed [Military] units <with [33]% chance> <when above [70] HP>","[+2] Movement","[+1] Sight","[+25]% Strength"]
 },
 {
 	"name": "Biopsia",
@@ -13,11 +13,11 @@
 //Black Sun Dv
 {
 	 "name": "ATE Doctrine -Hate-",
-	"uniques": ["[+75]% Strength <when below [50] HP>","[-15]% Strength for enemy [Military] units in adjacent [All] tiles <when below [60] HP>","Destroys tile improvements when attacking <when above [70] HP>"]
+	"uniques": ["[+75]% Strength <when below [30] HP>","[-15]% Strength for enemy [Military] units in adjacent [All] tiles <when below [50] HP>","Destroys tile improvements when attacking <when above [80] HP>"]
 },
 {
 	"name": "Requisitioned",
-	"uniques": ["Earn [50]% of the damage done to [Military] units as [Culture]","Earn [30]% of killed [Military] unit's [Strength] as [Gold]"]
+	"uniques": ["Earn [50]% of the damage done to [Military] units as [Culture]","Earn [30]% of killed [Military] unit's [Strength] as [Gold]","[+20]% Strength",""]
 },
 //HellStar Dv
 {
@@ -26,7 +26,7 @@
 },
 {
 	"name": "Agressivnyy impetus",
-	"uniques":["[+75]% XP gained from combat","Provides [1]% [Culture] <upon being defeated>"]
+	"uniques":["[+75]% XP gained from combat","Provides [1]% [Culture] <upon being defeated>","[+2] additional attacks per turn","[+2] Movement","[+20]% Strength"]
 },
 //Cult of the Ash
 {
