@@ -50,6 +50,6 @@
     "uniqueTo": "HellStar Dv",
     "cityHealth": 100,
     "cityStrength": 20,
-    "uniques": ["cost decreases by [15] per owned city","Cannont be purchased","Free [Kaori Azot] appears"]
+    "uniques": ["cost decreases by [15] per owned city","Cannont be purchased","Free [Kaori Azot] appears [in capital]"]
   }
   ]
