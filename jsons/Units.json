@@ -34,15 +34,29 @@
     "attackSound": "metalhit"
   },
   //HellStar Dv
-
-   {
+    {   
+    "name": "Explorer",
+    "unitType": "Sword",
+    "uniqueTo": "HellStar Dv",
+    "replaces": "Scout",
+    "movement": 2,
+    "strength": 10,
+    "cost": 45,
+    "uniques": ["Never appears as a Barbarian unit",
+        "Can pass through impassable tiles",
+        "May enter foreing tiles without open borders",
+        "Ignores Zone of Control",
+        "Can see invisible [All] units"],
+    "promotions": ["Ignore terrain cost"],
+    "attackSound": "metalhit"
+    },
+    {
     "name": "Kaori Azot",
     "unitType": "Sword",
     "uniqueTo": "HellStar Dv",
     "movement": 4,
     "sight": 4,
-    "Health": 150,
-    "strength": 100,
+    "strength": 300,
     "cost": 99999999999,
     "uniques": ["Never appears as a Barbarian unit", 
         "Can pass through impassable tiles",
@@ -51,9 +65,28 @@
         "Cities are razed [4] times as fast",
         "Unbuildable",
         "Unsellable",
-        "Will not be displayed in Civilopedia"],
+        "[+50] Health"],
     "promotions": ["Azot Blood"],
     "attackSound": "nuke"
-  },
+    },
+    {
+
+    },
   //Black Sun Dv
+      {   
+        "name": "Explorer",
+        "unitType": "Sword",
+        "uniqueTo": "Black Sun Dv",
+        "replaces": "Scout",
+        "movement": 2,
+        "strength": 10,
+        "cost": 45,
+        "uniques": ["Never appears as a Barbarian unit",
+            "Can pass through impassable tiles",
+            "May enter foreing tiles without open borders",
+            "Ignores Zone of Control",
+            "Can see invisible [All] units"],
+        "promotions": ["Ignore terrain cost"],
+        "attackSound": "metalhit"
+    },
 ]
