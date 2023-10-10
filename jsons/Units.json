@@ -61,7 +61,6 @@
     "uniques": ["Never appears as a Barbarian unit", 
         "Can pass through impassable tiles",
         "Can see invisible [All] units",
-        "May not annex cities",
         "Cities are razed [4] times as fast",
         "Unbuildable",
         "Unsellable",
