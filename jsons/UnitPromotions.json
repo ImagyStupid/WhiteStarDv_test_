@@ -3,7 +3,7 @@
 	//Heroes
 	{
 		"name": "Azot Blood",
-		"uniques": ["All healing effects doubled","No defensive terrain bonus","May heal outside friendly territory","Earn [75]% of the damage done to [All] units as [Culture]","Will not be displayed on Civilopedia","Can Spread Religion","Can remove others religions from cities"]
+		"uniques": ["All healing effects doubled","No defensive terrain bonus","May heal outside friendly territory","Earn [75]% of the damage done to [All] units as [Culture]","Will not be displayed on Civilopedia"]
 	},
 	//White Star Dv
 	{
@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Requisitioned",
-		"uniques": ["Earn [50]% of the damage done to [Military] units as [Culture]","Earn [30]% of killed [Military] unit's [Strength] as [Gold]","[+20]% Strength",""]
+		"uniques": ["Earn [50]% of the damage done to [Military] units as [Production] <in Capital>","Earn [30]% of killed [Military] unit's [Strength] as [Gold]","[+20]% Strength",""]
 	},
 	//HellStar Dv
 	{
