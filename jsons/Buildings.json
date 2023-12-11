@@ -2,7 +2,6 @@
   {
     "name": "Azot Codex -Ignorance-",
     "isNationalWonder": "True",
-    "replaces": "National College",
     "cost": 400,
     "uniqueTo": "White Star Dv",
     "science": 5,
@@ -13,7 +12,6 @@
   {
     "name": "Azot Codex -Violence-",
     "isNationalWonder": "True",
-    "replaces": "Heroic Epic",
     "uniqueTo": "HellStar Dv",
     "cost": 400,
     "cityStrength": 10,
@@ -23,7 +21,6 @@
   {
     "name": "Azot Codex -Hate-",
     "isNationalWonder": "True",
-    "replaces": "National Epic",
     "cost": 400,
     "uniqueTo":"Black Sun Dv",
     "culture": 10,
