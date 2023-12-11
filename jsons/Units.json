@@ -61,8 +61,7 @@
     "uniques": ["Never appears as a Barbarian unit", 
         "Can pass through impassable tiles",
         "Can see invisible [All] units",
-        "Unbuildable",
-        "Unsellable"],
+        "Unbuildable"],
     "promotions": ["Azot Blood"],
     "attackSound": "nuke"
     },
